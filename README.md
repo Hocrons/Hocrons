@@ -16,9 +16,9 @@
 <br/>
 
 ### Sobre mim:
-Atualmente cursando Sistemas de Informação na Faculdade Impacta 1/8
+Atualmente cursando Sistemas de Informação na Faculdade Impacta 3/8
 
-Estudando Python e JavaScript com HTML e CSS pela Alura.
+Estudando Python e JavaScript com HTML e CSS e Kotlin.
 
 Descobri a área de Tecnologia pelo Senac através do ensino médio integrado ao técnico em informática, apresentando frond-end, back-end junto banco de dados.
 
