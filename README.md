@@ -28,7 +28,7 @@
 
 ## 🌟 Projetos em Destaque  
 
-- 📌 [**SITE de RPG**](https://github.com/ariaalves/SITE-RPG.git) – Site em HTML, CSS e JavaScript, com integração à API ViaCEP para busca de endereços e armazenamento de dados.  
+- 📌 [**SITE de RPG**](https://github.com/ariaalves/SITE-RPG.git) – Site em HTML, CSS e JavaScript, com integração à API para armazenamento de dados.  
 - 📌 [**First_API**](https://github.com/Hocrons/First_API.git) – Aplicação em Python com Flask, implementando uma API RESTful para gerenciamento de usuários, com operações de Create, Read, Update e Delete e armazenamento em memória.  
 - 📌 [**Laboratório de GIT DevOps**](https://github.com/Hocrons/Git-Teste.git) – Espaço para entregas de projetos referente as aulas de DevOps  
 
