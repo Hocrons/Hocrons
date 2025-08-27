@@ -1,24 +1,50 @@
-### Olá meu nome é Heitor dos Santos 🫡
+# 👋 Olá! Eu sou o Heitor dos Santos  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-dos-santos-oliveira-10a279240/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-dos-santos-oliveira-10a279240/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hocrons)
 
-![Heitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hocrons&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hocrons&layout=compact)
+---
 
-## Tecnologias que eu uso no meu dia a dia 😌
+## 📊 Estatísticas do GitHub  
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
-<br/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hocrons&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hocrons&layout=compact&theme=tokyonight"/>
+</div>
 
-### Sobre mim:
-Atualmente cursando Sistemas de Informação na Faculdade Impacta 3/8
+---
 
-Estudando Python e JavaScript com HTML e CSS e Kotlin.
+## 🚀 Tecnologias que utilizo  
 
-Descobri a área de Tecnologia pelo Senac através do ensino médio integrado ao técnico em informática, apresentando frond-end, back-end junto banco de dados.
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+</div>
 
+---
+
+## 🌟 Projetos em Destaque  
+
+- 📌 [**SITE de RPG**](https://github.com/Hocrons/SITE-RPG.git) – Site em HTML, CSS e JavaScript, com integração à API ViaCEP para busca de endereços e armazenamento de dados.  
+- 📌 [**First_API**](https://github.com/Hocrons/First_API.git) – Aplicação em Python com Flask, implementando uma API RESTful para gerenciamento de usuários, com operações de Create, Read, Update e Delete e armazenamento em memória.  
+- 📌 [**Laboratório de GIT DevOps**](https://github.com/Hocrons/Git-Teste.git) – Espaço para entregas de projetos referente as aulas de DevOps  
+
+---
+
+## ✨ Sobre mim  
+
+🎓 Estudante de **Sistemas de Informação (3/8)** na Faculdade Impacta  
+💡 Apaixonado por desenvolvimento **Fullstack** e sempre aprendendo novas tecnologias  
+📚 Atualmente estudando **Python, JavaScript, HTML, CSS e Kotlin**  
+🚀 Iniciei na tecnologia no **Senac**, no ensino médio técnico em informática  
+
+---
+
+## 🔥 Fun fact  
+
+⚡ "Sempre em busca de transformar ideias em código e resolver problemas do mundo real."  
+
+---
